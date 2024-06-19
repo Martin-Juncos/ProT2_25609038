@@ -1,5 +1,5 @@
 <!-- navegacion -->
-<nav class="navbar navbar-expand-lg bg-body-black">
+<nav class="seccion-oscura navbar navbar-expand-lg bg-body-black">
     <div class="container">
         <a class="navbar-brand" href="<?php echo base_url('principal') ?>">
             <!-- logo de la empresa -->
@@ -24,8 +24,8 @@
                 </li>
             </ul>
             <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <input class="form-control me-2" type="search" placeholder="Ingrese el texto..." aria-label="Search">
+                <button class="btn btn-dark" type="submit">Buscar</button>
             </form>
         </div>
     </div>

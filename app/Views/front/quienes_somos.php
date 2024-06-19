@@ -1,7 +1,6 @@
 <!-- inicio de card -->
 <div class="container card-group">
     <div class="card">
-        <H3>Nuestro equipo</H3>
         <img src="assets/img/user1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>

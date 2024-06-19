@@ -1,6 +1,6 @@
-<section>
-    <div>
-        <h3>Acerca de...</h3>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deserunt fugiat laudantium odio quos, suscipit minima reiciendis iure, tenetur at aliquid architecto similique iusto, beatae illum? Quidem molestias hic odio eveniet.</p>
+<section id="acerca_de" class="acerca_de seccion-clara">
+    <div class="contenedor">
+        <h2 class="seccion-titulo">Acerca de...</h2>
+        <p class="seccion-texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras laoreet, odio eget fringilla scelerisque, sem purus fringilla mauris, nec ultricies nisl nisl sit amet dolor. Donec et venenatis nunc, vel hendrerit ex. Vestibulum sapien ipsum, rutrum eget est et, ultricies sagittis urna. In non volutpat est. Vestibulum diam sapien, ultrices et euismod at, ultrices ut odio. Nullam in massa et elit ultrices suscipit. Proin lacinia leo ac posuere placerat.</p>
     </div>
 </section>
