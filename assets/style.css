@@ -35,6 +35,13 @@ section {
   padding: 20px;
 }
 
+.botones {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
 /* carrusel */
 
 .testimonios {

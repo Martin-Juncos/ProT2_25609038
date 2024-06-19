@@ -14,6 +14,9 @@
         <input type="checkbox" class="form-check-input" id="exampleCheck1">
         <label class="form-check-label" for="exampleCheck1">Check me out</label>
     </div>
-    <button type="submit" class="btn btn-dark">Login</button>
+    <div>
+        <button type="submit" class="btn btn-dark">Login</button>
+        <button type="submit" class="btn btn-secondary">Cancelar</button>
+    </div>
 </form>
 <!-- fin login -->

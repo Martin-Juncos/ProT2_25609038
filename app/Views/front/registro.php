@@ -36,8 +36,9 @@
                 </label>
             </div>
         </div>
-        <div class="col-12">
+        <div>
             <button type="submit" class="btn btn-dark">Registrarse</button>
+            <button type="submit" class="btn btn-secondary">Cancelar</button>
         </div>
     </form>
 </div>
